@@ -1,4 +1,4 @@
-package com.hometask1.WeekDays;
+package WeekDays;
 import java.util.Scanner;
 
 public class WeekDayHomeTask {

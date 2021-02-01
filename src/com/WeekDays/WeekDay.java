@@ -1,5 +1,4 @@
-package com.hometask1.WeekDays;
-
+package WeekDays;
 public enum WeekDay {
     SUNDAY,
     MONDAY,

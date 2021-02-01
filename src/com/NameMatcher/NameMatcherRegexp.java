@@ -1,4 +1,4 @@
-package com.hometask1.NameMatcher;
+package NameMatcher;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
